@@ -94,7 +94,7 @@ python3 pia.py
 |---|---|
 | `via.py` | Value Iteration implementation |
 | `pia.py` | Policy Iteration implementation |
-| `CPS_824_Task3_Report.pdf` | Full results report with convergence analysis |
+| `GridWorld_RL_Report.pdf` | Full results report with convergence analysis |
 
 ---
 
